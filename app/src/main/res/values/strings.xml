@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomSheetDialog</string>
+
+    <string name="open_bottom_sheet">Open Bottom Sheet</string>
+
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+</resources>
